@@ -14,9 +14,12 @@ export default {
 
     theme: {
         extend: {
-            fontFamily: {
-                sans: ['Figtree', ...defaultTheme.fontFamily.sans],
-            },
+          fontFamily: {
+            sans: ["Open Sans"],
+            serif: ['SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace', "serif"],
+            body: ["Roboto", "sans-serif"],
+            awesome: ["FontAwesome"],
+          },
         },
     },
 
