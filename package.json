@@ -10,7 +10,7 @@
         "@tailwindcss/forms": "^0.5.7",
         "@tailwindcss/typography": "^0.5.10",
         "@vitejs/plugin-vue": "^5.0.0",
-        "@vue/server-renderer": "^3.3.13",
+        "@vue/server-renderer": "^3.4.34",
         "autoprefixer": "^10.4.16",
         "axios": "^1.7.2",
         "laravel-vite-plugin": "^1.0.4",
